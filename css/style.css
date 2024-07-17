@@ -1,0 +1,219 @@
+.container{
+    margin:0px 0px 0px 85px;
+}
+.row1{
+    background-color:#186448;
+    margin: 0px -96px 0px -96px;
+    height:150px;
+}
+ul{
+   list-style-type: none;
+   margin: -52px 0px 0px 299px;
+  
+}
+li{
+    display: inline;
+    padding:32px;
+   
+   
+}
+.c-item{
+  height:480px;
+  opacity: 0.8;
+}
+.c-img{
+    height:500px;
+    object-fit: cover;
+    opacity: 0.8;
+}
+p{
+    color:#0b9f52;
+}
+h5{
+    color: black;
+}
+.row3{
+    background-color: yellowgreen;
+    margin: 0px -80px 0px -97px;
+    text-align: center;
+}
+h4{
+    color:black
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    
+}
+.box img{
+    height: 250px;
+    width: 250px;
+    border-radius: 5px;
+}
+.box button{
+    background-color: green;
+    color: white;
+    border-radius:5px;
+    border: none;
+    padding: 10px;
+}
+.box p{
+    color:yellowgreen;
+}
+h1{
+    text-align:left;
+    font-family: cursive;
+    text-decoration: underline;
+}
+h1{
+    text-align:left;
+    font-family: cursive;
+    text-decoration: underline;
+}
+.row6{
+    margin:0px 0px 0px 0px;
+}
+.row7{
+text-align: center;
+}
+h2{
+    display:inline-table;
+}
+.col12 .ul{
+    list-style-type: none;
+    margin: 50px 0px 0px 0px;
+   
+ }
+ .col-12 li{
+     display: inline;
+     padding:32px;
+}
+.box :hover{
+    background-color: aqua;
+}
+/* login page */
+.container2{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 2px;
+    margin: 60px 400px 25px 400px;
+}
+.welcome{
+    text-align: center;
+    margin: 65px 0px 0px 0px;
+    font-size:50px;
+    color:rgb(46, 113, 184);
+   
+}
+input{
+    margin: 30px 50px 0px 0px;
+    width: 50px;
+    height: 50px;
+    margin-left: 165px;
+   
+}
+.login{
+    text-align: center;
+    color: gray;
+    font-size:medium;
+}
+.forget{
+    margin-left: 250px;
+    color: gray;
+    font-size:10px;
+    margin: 20px 0px 0px 410px ;
+    width: 110px;
+  
+}
+.Loginbutton{
+    background-color: skyblue;
+    margin: 20px 0px 0px 300px;
+}
+hr{
+    margin-left: 200px;
+    width:250px;
+}
+.or{
+    margin: -34px 0px 0px 320px;
+    margin-right: 20px;
+    height: 20px;
+}
+
+.col-6 i{
+    font-size: 50px;
+     border:1px solid grey; 
+     margin-left: 265px;
+    margin-top: 30px;
+    color: rgb(112, 112, 212);
+    text-align: center;
+   
+}
+.row .para2{
+    margin-left: 200px;
+    margin-top: 10px;
+} 
+/* Contact us */
+.imgc{
+    margin: 0px 25px 0px 225px;
+}
+.getintouch{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:none;
+    text-align: center;
+}
+
+/* About us */
+.Aboutusbg{
+    height: 550px;
+    width:1440px;
+    margin: 10px 0px 0px 15px;
+}
+.div1{
+    z-index: +1;
+    position: relative;
+    bottom: 39rem;
+}
+.paraA{
+    width:-10px;
+    height:50px;
+    font-family: cursive;
+    color:rgb(33, 82, 11);
+    font-size:large;
+    margin: 0px 0px 0px 760px;
+ 
+}
+.div1 .AboutusH{
+    width:-1px;
+    height:50px;
+    font-family: cursive;
+    color:black;
+    text-align: center;
+    margin: 265px 541px 25px 760px;
+    text-decoration: none;
+}
+.div2.Aboutusbg{
+    width:-1px;
+    height:50px;
+    font-family: cursive;
+    color:black;
+    text-align: center;
+    margin: 265px 541px 25px 760px;
+    text-decoration: none;
+
+}
+/* footer */
+.row-w{
+    text-align: center;
+    color: #E4B3D6;
+    background-color:#114c36;
+    font-size: xx-large;
+}
+
+
